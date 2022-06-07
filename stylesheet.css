@@ -1,0 +1,46 @@
+body {
+    color: rgba(229, 44, 81, 0.776);
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    padding: 16px;
+    border-width: 1.2px;
+    border-style: groove;
+    border-color: gold;
+}
+
+li:hover {
+    color: beige;
+    background-color: rgba(229, 44, 81, 0.776);
+}
+
+.navlinks {
+    background-color: beige;
+    text-align: center;
+    font-size: 1.25rem;
+    color: goldenrod;
+}
+
+.imagebanner {
+    background-image: url("images/imagebanner.png");
+    padding: 50px;
+    background-size: cover;
+}
+
+h3 {
+    text-align: center;
+    background-color: whitesmoke;
+    color: rgb(189, 94, 94);
+}
+
+.introduction {
+    text-align: center;
+    font-size: larger;
+}
